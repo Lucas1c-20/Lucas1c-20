@@ -1,5 +1,6 @@
-- Olá, meu nome e
-<!---
-Lucas1c-20/Lucas1c-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá, meu nome é Lucas,sou estudante da 1°C,na escola Leonardo Vilas Boas,em Osasco/SP
+- Estou aprendendo a usar o alura
+- Meu sonho eu ainda não sei(não acabei pensando muito nisso)
+- Nas minhas horas vagas eu gosto de DESCANSAR,provavelmente desenhar,jogar,escutar musicas que combine com a situção que esta acontecendo no momento
+- Contato(prefiro não colocar)
+- .
